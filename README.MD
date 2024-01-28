@@ -25,7 +25,7 @@ sudo yum update -y
 
 * Install Docker
 ```
-sudo yum amazon-linux-extras install docker
+sudo amazon-linux-extras install docker
 ```
 
 * Start Docker
